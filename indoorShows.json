@@ -22,5 +22,14 @@
     "imageName": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F880615173%2F992602114393%2F1%2Foriginal.20241022-143247?w=940&auto=format%2Ccompress&q=75&sharp=10&s=5644041dcefad6d51fe338385c43611b",
     "websiteURL": "https://www.eventbrite.sg/e/the-kumar-show-wednesday-nov-13th-2024-the-lemon-stand-tickets-1055014068479?aff=oddtdtcreator",
     "category": "Show"
+  },
+  
+  {
+    "id": "uuid4",
+    "name": "Pulau Ubin",
+    "description": "Pulau Ubin,  is one of Singapore’s last remaining villages or kampongs. This island is situated just off the north-east coast of Singapore and what once was a granite mining hub, today remains as an abandoned granite quarry, rich in forests and grasslands.",
+    "imageName": "https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1605883196/blog/exzo7yi9g8pxlb3lpbpt.jpg",
+    "websiteURL": "https://www.nparks.gov.sg/pulau-ubin/visit/directions-and-map",
+    "category": "Sight Seeing"
   }
 ]
