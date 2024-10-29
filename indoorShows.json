@@ -1,5 +1,6 @@
 [
   {
+    "id": "uuid1",
     "name": "East Coast Comedy Standup Night",
     "description": "brings you the most popular standup comedy nights in Singapore. With the very best comedians in Singapore bringing their talents to Joo Chiat, the East Coast is now officially the coolest part of Singapore. Every show features a curated selection of the absolute best comedians in Singapore. No show is ever the same with a different lineup and host each night.",
     "imageName": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F437709879%2F56229801503%2F1%2Foriginal.20230202-144742?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3000%2C1500&s=7096b6d501f9350ecad8d99a5a83ca5c",
@@ -7,6 +8,7 @@
     "category": "Show"
   },
   {
+    "id": "uuid2",
     "name": "Funny Friday @ The Lemon Stand Comedy Club",
     "description": "At The Lemon Stand we do our best to bring together the comedic arts and the community with an entire venue created just for Comedy in Singapore so we hope you come out and enjoy your night with lots of laughs and entertainment!",
     "imageName": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F600098279%2F992602114393%2F1%2Foriginal.20230918-051559?h=740&w=1200&auto=format%2Ccompress&q=75&sharp=10&s=36496c8d1238cdddd0d8bcbd39d673d9",
@@ -14,6 +16,7 @@
     "category": "Show"
   },
   {
+    "id": "uuid3",
     "name": "The Kumar Show | Wednesday Nov 13th 2024 @ The Lemon Stand",
     "description": "brings you the most popular standup comedy nights in Singapore. With the very best comedians in Singapore bringing their talents to Joo Chiat, the East Coast is now officially the coolest part of Singapore. Every show features a curated selection of the absolute best comedians in Singapore. No show is ever the same with a different lineup and host each night.",
     "imageName": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F880615173%2F992602114393%2F1%2Foriginal.20241022-143247?w=940&auto=format%2Ccompress&q=75&sharp=10&s=5644041dcefad6d51fe338385c43611b",
